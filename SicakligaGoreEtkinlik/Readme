@@ -1,0 +1,7 @@
+Proje Konusu:
+=> Java ile kullanıcının girdiği sıcaklık durumuna göre aşağıda ki etkinlikleri öneren programı yazınız.
+
+- Sıcaklık 5'den küçük ise "Kayak" yapmayı öner.
+- Sıcaklık 5 ve 15 arasında ise "Tiyatro" etkinliğini öner.
+- Sıcaklık 15 ve 25 arasında ise "Mangal" etkinliğini öner.
+- Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
