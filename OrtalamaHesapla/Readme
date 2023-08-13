@@ -1,0 +1,6 @@
+Proje Konusu:
+=> Java ile Fizik, Matematik, Türkçe, Kimya, Müzik, Tarih derslerinin sınav puanlarını 
+kullanıcıdan alan ve bu derslerin ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+
+=> Bu programa geliştirme olarak If ve Else kullanmadan, eğer kullanıcının ortalaması
+60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
