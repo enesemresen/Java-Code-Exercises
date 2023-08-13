@@ -1,0 +1,4 @@
+Proje Konusu:
+=> Java dili ile kullanıcıdan alınan tutarın KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
+
+=> Eğer girilen tutar 0 ve 500TL arasında ise KDV oranı %20 , tutar 500TL'den büyük ise KDV oranını %10 olarak KDV hesaplayan programı yazınız.
