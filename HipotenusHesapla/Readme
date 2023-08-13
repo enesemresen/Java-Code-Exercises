@@ -1,0 +1,9 @@
+Proje Konusu:
+=> Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve üçgene ait Hipotenüsü hesaplayan programı yazın.
+
+=> Hipotenüs teoremi ile bulduğunuz 3. kenar uzunluğu ile birlikte üçgenin alanını hesaplayan programı yazınız.
+
+Formüller; 
+Üçgenin Çevresi = 2u
+u = (a+b+c) / 2
+Alan * Alan = u * (u - a) * (u - b) * (u - c)
